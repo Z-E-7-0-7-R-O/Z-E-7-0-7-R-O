@@ -33,9 +33,6 @@ Developed with the assistance of LLMs utilizing the aforementioned prompt struct
 - **ZeroCancerReactor:** A GPU-accelerated (CUDA C++) biological simulator and tumor microenvironment (TME) engine containing over 3,500 lines of code. It simulates up to 70 million concurrent cellular agents forming a biochemical communication network. The engine models cellular actions using non-linear differential equations and stochastic heuristics rather than pre-scripted events. Utilizing a programmatic PID controller and Lotka-Volterra dynamics models, the system attempts to regulate cellular parameters into a steady state, successfully logging over 72,000 continuous epochs of simulated host-tumor interaction.
 - **ZeroSnake:** A concurrent network port scanner utilizing Windows I/O Completion Ports (IOCP) and Npcap for infrastructure reconnaissance.
 - **ZeroSifter:** An asynchronous, state-machine-driven Layer 7 scanner designed for the identification of specific vulnerabilities (RCE, SQLi, LFI) across target sets.
-- **K-Vector:** A cryptographic analysis tool designed to detect ECDSA signature nonce collisions on blockchain networks to algorithmically recover private keys.
-- **GhostEye++:** A multi-vector web vulnerability scanner and exploitation framework.
-- **OMEGA Engine:** A Layer 7 load-generation framework utilizing HTTP/2 multiplexing and asynchronous I/O to simulate traffic stress tests.
 
 **Conversational History: Google AI Studio Logs**
 The entirety of the conversational sessions used to engineer these modules from inception to completion are preserved within the Google AI Studio environment. These architectural logs serve as empirical evidence of the human-AI collaborative process, capturing the prompts, debug cycles, and logic synthesis executed by the operator.
