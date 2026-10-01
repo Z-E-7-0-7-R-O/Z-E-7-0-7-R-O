@@ -37,9 +37,6 @@ Developed with the assistance of LLMs utilizing the aforementioned prompt struct
 - **GhostEye++:** A multi-vector web vulnerability scanner and exploitation framework.
 - **OMEGA Engine:** A Layer 7 load-generation framework utilizing HTTP/2 multiplexing and asynchronous I/O to simulate traffic stress tests.
 
-**Access & Technical Verification:**
-For full access to the source code of the modules listed above, along with architectural documentation and telemetry data, please navigate to the **[src](src)** directory. The `src` folder houses the complete architectural breakdowns, deployment instructions, and operational logs for the repository. This directory is available for inspection by O-1A Visa adjudicators, security engineers, and scientific researchers.
-
 **Conversational History: Google AI Studio Logs**
 The entirety of the conversational sessions used to engineer these modules from inception to completion are preserved within the Google AI Studio environment. These architectural logs serve as empirical evidence of the human-AI collaborative process, capturing the prompts, debug cycles, and logic synthesis executed by the operator.
 
