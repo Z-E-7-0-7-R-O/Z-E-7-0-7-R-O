@@ -47,8 +47,6 @@ Project Zero is maintained by an independent researcher (Age 15). The developmen
 
 The implementation of the C++ and Python codebase, the architectural designs, and the prompt structures were engineered autonomously through iterative prompting and logic synthesis utilizing frontier AI models.
 
----
-
 [![GitHub Followers](https://img.shields.io/github/followers/Z-E-7-0-7-R-O?label=GitHub%20Followers&color=8e8cd8&style=flat)](https://github.com/Z-E-7-0-7-R-O)
 [![Profile Views](https://komarev.com/ghpvc/?username=Z-E-7-0-7-R-O&label=views&color=8e8cd8&style=flat&base=1050)](https://github.com/Z-E-7-0-7-R-O)
 
