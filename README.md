@@ -48,9 +48,8 @@ Project Zero is maintained by an independent researcher (Age 15). The developmen
 The implementation of the C++ and Python codebase, the architectural designs, and the prompt structures were engineered autonomously through iterative prompting and logic synthesis utilizing frontier AI models.
 
 ---
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-E-7-0-7-R-O&layout=compact&langs_count=8&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&border_color=8e8cd866&hide_border=false&line_height=30)
-![Zero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-E-7-0-7-R-O&show_icons=true&include_all_commits=true&custom_title=Zero%27s%20GitHub%20Stats&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&icon_color=8e8cd8&border_color=8e8cd866&ring_color=8e8cd8&hide_border=false&line_height=30)
+![Zero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-E-7-0-7-R-O&show_icons=true&include_all_commits=true&custom_title=Zero%27s%20GitHub%20Stats&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&icon_color=8e8cd8&border_color=8e8cd866&ring_color=8e8cd8&hide_border=false&line_height=25)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-E-7-0-7-R-O&layout=compact&langs_count=8&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&border_color=8e8cd866&hide_border=false&line_height=25)
 
 ---
 
