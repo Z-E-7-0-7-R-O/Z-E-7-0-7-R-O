@@ -56,7 +56,7 @@ The primary objective of this research is to transition into the global technolo
 I am seeking **O-1A Visa Sponsorship**, alongside relocation support, from technology corporations or AI research laboratories (such as Google, OpenAI, etc.) in the United States. The goal of this relocation is to gain unrestricted access to frontier AI models and compute resources to further research in AI Safety, Red Teaming, and Automated Threat Intelligence within a supportive environment.
 ---
 
-![Most Used Languages](https://.../api/top-langs/?username=Z-E-7-0-7-R-O)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-E-7-0-7-R-O)
 
 ---
 
