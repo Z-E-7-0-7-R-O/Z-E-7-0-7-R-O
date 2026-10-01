@@ -70,7 +70,7 @@ The technical artifacts within this repository (ZeroCancerReactor, ZeroSnake, Ze
 
 For security research collaboration, code audit inquiries, or discussions regarding **O-1A visa sponsorship, hiring, and relocation support**, please contact:
 
-**Zero AI Native**
+**Zero AI Native:**
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ze707ro)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ze707ro)
