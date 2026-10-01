@@ -66,5 +66,7 @@ The technical artifacts within this repository (ZeroCancerReactor, ZeroSnake, Ze
 For security research collaboration, code audit inquiries, or discussions regarding **O-1A visa sponsorship, hiring, and relocation support**, please contact:
 
 **Zero (AI-Assisted Security Researcher)**
-- **Telegram:** [@ze707ro]
-- **Email:** [z.e.7.0.0.7.r.o@gmail.com]
+[![Reddit](https://img.shields.io/badge/Reddit-8e8cd8?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ze707ro)
+[![X](https://img.shields.io/badge/X-8e8cd8?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ze707ro)
+[![YouTube](https://img.shields.io/badge/YouTube-8e8cd8?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ze707ro)
+[![Gmail](https://img.shields.io/badge/Gmail-8e8cd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:z.e.7.0.0.7.r.o@gmail.com)
