@@ -47,6 +47,12 @@ Project Zero is maintained by an independent researcher (Age 15). The developmen
 
 The implementation of the C++ and Python codebase, the architectural designs, and the prompt structures were engineered autonomously through iterative prompting and logic synthesis utilizing frontier AI models.
 
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-E-7-0-7-R-O&layout=normal&langs_count=8&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&border_color=8e8cd866&hide_border=false)
+
+---
+
 **Operating Environment Constraints:**
 The development of this ecosystem was conducted independently from within Iran. The project was completed despite significant regional network constraints, internet censorship, and limited access to standard global infrastructure. These conditions necessitated the development of specific routing and operational security methodologies to maintain access to necessary AI endpoints and documentation.
 
@@ -54,11 +60,6 @@ The development of this ecosystem was conducted independently from within Iran. 
 The primary objective of this research is to transition into the global technology sector.
 
 I am seeking **O-1A Visa Sponsorship**, alongside relocation support, from technology corporations or AI research laboratories (such as Google, OpenAI, etc.) in the United States. The goal of this relocation is to gain unrestricted access to frontier AI models and compute resources to further research in AI Safety, Red Teaming, and Automated Threat Intelligence within a supportive environment.
----
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-E-7-0-7-R-O&layout=normal&langs_count=8&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&border_color=8e8cd866&hide_border=false)
-
----
 
 ## Professional Inquiries
 The technical artifacts within this repository (ZeroCancerReactor, ZeroSnake, ZeroSifter, K-Vector) were developed through advanced human-AI workflows.
