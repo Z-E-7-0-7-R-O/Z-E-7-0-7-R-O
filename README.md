@@ -54,6 +54,9 @@ The development of this ecosystem was conducted independently from within Iran. 
 The primary objective of this research is to transition into the global technology sector.
 
 I am seeking **O-1A Visa Sponsorship**, alongside relocation support, from technology corporations or AI research laboratories (such as Google, OpenAI, etc.) in the United States. The goal of this relocation is to gain unrestricted access to frontier AI models and compute resources to further research in AI Safety, Red Teaming, and Automated Threat Intelligence within a supportive environment.
+---
+
+![Most Used Languages](https://.../api/top-langs/?username=Z-E-7-0-7-R-O)
 
 ---
 
