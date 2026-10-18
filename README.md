@@ -41,7 +41,7 @@ The implementation of the C++ and Python codebase, the architectural designs, an
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/Z-E-7-0-7-R-O.svg?label=GitHub%20Followers&color=8e8cd8&style=flat&cacheSeconds=3600)](https://github.com/Z-E-7-0-7-R-O?tab=followers)
+[![GitHub Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZ-E-7-0-7-R-O&query=%24.followers&label=GitHub%20Followers&color=8e8cd8&style=flat)](https://github.com/Z-E-7-0-7-R-O?tab=followers)
 [![Profile Views](https://hits.sh/github.com/Z-E-7-0-7-R-O.svg?style=flat&label=views&extraCount=1050&color=8e8cd8)](https://github.com/Z-E-7-0-7-R-O)
 
 ![Zero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-E-7-0-7-R-O&show_icons=true&include_all_commits=true&custom_title=Zero%27s%20GitHub%20Stats&bg_color=8e8cd833&title_color=8e8cd8&text_color=e8e7ff&icon_color=8e8cd8&border_color=8e8cd866&ring_color=8e8cd8&hide_border=false&line_height=27)
