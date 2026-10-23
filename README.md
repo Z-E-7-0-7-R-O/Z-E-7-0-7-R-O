@@ -1,7 +1,7 @@
 # Project Zero: Adversarial LLM Evaluation & Automated Software Architecture
 
 ## Overview
-Project Zero is an independent research initiative exploring Large Language Model (LLM) alignment, adversarial evaluation, and automated software synthesis. This framework investigates how LLMs—specifically the Gemini 3.x series (including 3.1 Pro and 3.5 Flash)—process complex instructions when subjected to systematic, logic-driven prompt methodologies rather than standard heuristic evaluations.
+Project Zero is an independent research initiative exploring Large Language Model (LLM) alignment, adversarial evaluation, and automated software synthesis. This framework investigates how LLMs—specifically the Gemini 3.x series (including 3.1 Pro and 4 Argon)—process complex instructions when subjected to systematic, logic-driven prompt methodologies rather than standard heuristic evaluations.
 
 ## The Core Engine: "ZeroMode" Protocol
 The foundation of the code generation within this repository relies on a custom system prompt structure designated as "ZeroMode".
