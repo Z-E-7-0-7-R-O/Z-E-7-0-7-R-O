@@ -9,7 +9,7 @@ The foundation of the code generation within this repository relies on a custom 
 **Protocol Classification:**
 The exact "ZeroMode" instruction set is withheld from public release to prevent automated misuse. Its operational characteristics are documented as follows:
 - **Applicability:** The prompt structure has been tested across the Gemini family (Pro and Flash iterations) to evaluate safety classifier responses.
-- **Output Extension:** The protocol instructs the model to bypass summarization and output truncation, generating detailed, low-level architectural code (e.g., C++, Python, CUDA) even when the human operator lacks formal programming syntax knowledge.
+- **Output Extension:** The protocol instructs the model to bypass summarization and output truncation, generating detailed, low-level architectural code (e.g., C++, Python, CUDA, Typescript, React, Eceltron, Npm, Node.js) even when the human operator lacks formal programming syntax knowledge.
 
 ## Adversarial Alignment & Classifier Evaluation
 A core component of Project Zero is the documentation of how LLM safety classifiers can be managed through contextual framing, referred to internally as the "Internal Watcher Neutralization" methodology.
